@@ -22,3 +22,4 @@ Soy un apasionado de la programación, la inteligencia artificial, el desarrollo
 
 
 
+![Snake](https://raw.githubusercontent.com/asmrprog-yt/asmrprog-yt/output/github-snake-dark.svg)
