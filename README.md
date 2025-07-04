@@ -17,8 +17,8 @@ Soy un apasionado de la programación, la inteligencia artificial, el desarrollo
 - **Python**: aprendiendo a crear aplicaciones CMS con **Django**
 
 # Estadisticas
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=drxcodev2&show_icons=true&theme=transparent)
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=drxcodev2&langs_count=3&theme=transparent)
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=drxcodev2&show_icons=true&theme=dracula)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=drxcodev2&langs_count=3&theme=dracula)
 
 
 
