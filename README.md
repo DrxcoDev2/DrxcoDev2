@@ -14,7 +14,7 @@ Soy un apasionado de la programación, la inteligencia artificial, el desarrollo
 
 # 🔧 Estoy aprendiendo
 - **Go**: aprendiendo a crear RestAPI
-- **Python**: aprendiendo a crear aplicaciones CMS con **Django**
+- **Prisma**: aprendiendo a crear base de datos y API`s
 
 # Estadisticas
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=drxcodev2&show_icons=true&theme=dracula)
