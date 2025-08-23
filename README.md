@@ -20,6 +20,8 @@ Soy un apasionado de la programación, la inteligencia artificial, el desarrollo
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=drxcodev2&show_icons=true&theme=dracula)
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=drxcodev2&langs_count=5&theme=dracula)
 
+  <img align="center" src="https://github-readme-stats.vercel.app/api/wakatime?username=drxcodev2&layout=compact" />
+
 
 
 ![Snake](https://raw.githubusercontent.com/asmrprog-yt/asmrprog-yt/output/github-snake-dark.svg)
